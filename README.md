@@ -1,12 +1,10 @@
-# Market Base
+# AAM26-G00-P1
 
-Asignatura: 
-Grupo: 
-Autores:
-Nombre Alumno 1 (@usuario_github)
-Nombre Alumno 2 (@usuario_github)
+Asignatura: Aprendizaje Automático y Minería de Datos
+Grupo: 00
+Autores: Federico Peinado (@federicopeinado) 
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/narratech/market-base/blob/main/notebooks/market_base.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AAM26-G00/AAM26-G00-P1/blob/main/notebooks/aam26-g00-p1.ipynb)
 
 Este repositorio contiene el punto de partida para la práctica [Estudio del Mercado de Steam](https://narratech.com/es/aprendizaje-automatico-y-mineria-de-datos/mineria-de-datos/estudio-del-mercado-de-steam/) de la asignatura Aprendizaje Automático y Minería de Datos. 
 
